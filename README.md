@@ -1,5 +1,5 @@
 # Space-Invaders
-Game created with libGDX
+Game created with libGDX.
 
 
 ## Preview
